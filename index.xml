@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random walks through my mind</title>
+    <link>http://localhost:8080/</link>
+    <description>Recent content on Random walks through my mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2019 18:21:35 +0900</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nasadiya Sukta  - The Creation Hymn of the Rig Veda</title>
+      <link>http://localhost:8080/rigveda/10-129-nasadiya-sukta/</link>
+      <pubDate>Tue, 22 Oct 2019 18:21:35 +0900</pubDate>
+      
+      <guid>http://localhost:8080/rigveda/10-129-nasadiya-sukta/</guid>
+      <description>Rig Veda Mandal 10 Sukta 129 (RV 10.129)
+Rishi: Prajapati Parameshthi</description>
+    </item>
+    
+  </channel>
+</rss>

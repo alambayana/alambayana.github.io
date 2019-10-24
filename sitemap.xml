@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8080/categories/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tags/nasadiya/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/rigveda/10-129-nasadiya-sukta/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tags/rig-veda/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/rigveda/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tags/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/categories/translations/</loc>
+    <lastmod>2019-10-22T18:21:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/about/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+</urlset>
