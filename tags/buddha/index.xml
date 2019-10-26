@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buddha on Alambayana&#39;s Blog: Random walks through my mind</title>
+    <link>https://alambayana.github.io/tags/buddha/</link>
+    <description>Recent content in Buddha on Alambayana&#39;s Blog: Random walks through my mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 19:37:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://alambayana.github.io/tags/buddha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kalama Sutta</title>
+      <link>https://alambayana.github.io/buddha/kalama/</link>
+      <pubDate>Fri, 25 Oct 2019 19:37:18 +0900</pubDate>
+      
+      <guid>https://alambayana.github.io/buddha/kalama/</guid>
+      <description>Buddha Shakyamuni is said to have started his final journey from Kesariya to his Parinirvana at Kushinagar in Nepal.</description>
+    </item>
+    
+  </channel>
+</rss>
